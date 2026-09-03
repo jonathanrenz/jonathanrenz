@@ -44,10 +44,14 @@ Backend que capta ofertas de Amazon e Shopee, gera legendas com IA e publica aut
 
 `Spring Boot 4` `Java 21` `PostgreSQL` `OpenAI API` `Docker`
 
+### 🌦️ [Painel Meteorológico — Região Sul](https://github.com/jonathanrenz/painel_meteorologico)
+Aplicação desktop em Java Swing que consome dados de estações meteorológicas do Sul do Brasil e os renderiza em mapa interativo, com heatmap por interpolação IDW, isolinhas, clusterização de marcadores e alertas de alagamento, onda de calor e onda de frio. Validado contra o evento real da enchente do RS de 2024, com geração de relatório em PDF e 77 testes automatizados.
+
+`Java` `Swing` `MySQL` `JXMapViewer2` `Apache PDFBox`
+
 ## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonathanrenz&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jonathanrenz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
