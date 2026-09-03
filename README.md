@@ -50,3 +50,4 @@ Backend que capta ofertas de Amazon e Shopee, gera legendas com IA e publica aut
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonathanrenz&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jonathanrenz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
