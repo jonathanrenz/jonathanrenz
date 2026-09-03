@@ -49,9 +49,3 @@ Aplicação desktop em Java Swing que consome dados de estações meteorológica
 
 `Java` `Swing` `MySQL` `JXMapViewer2` `Apache PDFBox`
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jonathanrenz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jonathanrenz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
